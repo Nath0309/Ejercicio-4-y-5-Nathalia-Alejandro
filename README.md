@@ -1,7 +1,5 @@
 # RentaMovil
 
-Aplicación de consola en Java basada en las clases, atributos, métodos, constructores y datos iniciales del documento «Ejercicios 4 y 5 N.E A». El proyecto contiene 18 archivos Java y organiza las responsabilidades con MVC.
-
 ## Requisitos
 
 JDK 17 o posterior, con `java` y `javac` disponibles en la terminal. No utiliza bibliotecas externas, Maven, Gradle, archivos de datos ni base de datos. Los archivos fuente están codificados en UTF-8.
